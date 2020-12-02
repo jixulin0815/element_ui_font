@@ -10,7 +10,6 @@ import teacher from '@/api/edu/teacher/';
 
 export default {
     // data:{
-
     // },
     data (){
         return {
